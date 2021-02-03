@@ -1,6 +1,4 @@
 Project Team Members:
-Tyler Kimbell
-TK
-Test for error
+Macy Stephens
 
-Corrected the changes made by Tyler.
+Test for error
