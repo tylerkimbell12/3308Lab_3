@@ -1,4 +1,4 @@
 Project Team Members:
+Tyler Kimbell
+Sam Freed
 Macy Stephens
-
-Test for error
